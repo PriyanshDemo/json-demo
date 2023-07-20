@@ -24,6 +24,17 @@
         "peach syrup"
       ],
       "image": "peach-mango.svg"
+    },
+    {
+      "name": "Straberry Sprinkle",
+      "calories": 350,
+      "type": "ice-cream",
+      "ingredients": [
+        "straberry chunks",
+        "sprinkle base",
+        "rose syrup"
+      ],
+      "image": "peach-mango.svg"
     }
   ]
 }
