@@ -1,0 +1,29 @@
+{
+  "companyName": "I Scream Inc.",
+  "headOffice": "North Canada or Northern Pole",
+  "active": true,
+  "established": 2023,
+  "topFlavours": [{
+      "name": "Chocolate Mint",
+      "calories": 200,
+      "type": "ice-cream",
+      "ingredients": [
+        "chocolate fudge",
+        "vanilla base",
+        "peppermint syrup"
+      ],
+      "image": "chocolate-mint.svg"
+    },
+    {
+      "name": "Peach Mango",
+      "calories": 300,
+      "type": "milkshake-type ice-cream",
+      "ingredients": [
+        "mango chunks",
+        "vanilla base",
+        "peach syrup"
+      ],
+      "image": "peach-mango.svg"
+    }
+  ]
+}
